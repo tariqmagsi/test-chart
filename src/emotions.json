@@ -1,0 +1,1163 @@
+{
+    "timestamp": "2020-12-10T20:56:20.946+00:00",
+    "status": 200,
+    "error": null,
+    "message": null,
+    "data": [
+        {
+            "sessionEventId": 244996,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:40:22.000+00:00",
+            "event": 234,
+            "attention": 0.649676
+        },
+        {
+            "sessionEventId": 245001,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:40:22.000+00:00",
+            "event": 234,
+            "attention": 0.73349
+        },
+        {
+            "sessionEventId": 245071,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:40:32.000+00:00",
+            "event": 234,
+            "attention": 0.606326
+        },
+        {
+            "sessionEventId": 245075,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:40:32.000+00:00",
+            "event": 234,
+            "attention": 0.765495
+        },
+        {
+            "sessionEventId": 245147,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:40:42.000+00:00",
+            "event": 234,
+            "attention": 0.641909
+        },
+        {
+            "sessionEventId": 245151,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:40:42.000+00:00",
+            "event": 234,
+            "attention": 0.712966
+        },
+        {
+            "sessionEventId": 245233,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:40:52.000+00:00",
+            "event": 234,
+            "attention": 0.772064
+        },
+        {
+            "sessionEventId": 245237,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:40:52.000+00:00",
+            "event": 234,
+            "attention": 0.724729
+        },
+        {
+            "sessionEventId": 245289,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:02.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245293,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:02.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245297,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:02.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245301,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:02.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245305,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:02.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245309,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:02.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245313,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:02.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245317,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:03.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245321,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:03.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245325,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:03.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245329,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:03.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245333,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:03.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245337,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:03.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245341,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:03.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245345,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:03.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245349,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:03.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245353,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:04.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245357,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:04.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245361,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:04.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245365,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:04.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245369,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:04.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245373,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:04.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245377,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:04.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245381,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:04.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245385,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:05.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245389,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:05.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245393,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:05.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245397,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:05.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245401,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:05.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245405,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:05.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245409,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:05.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245413,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:05.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245417,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:05.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245421,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:06.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245425,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:06.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245429,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:06.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245433,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:06.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245437,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:06.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245441,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:06.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245445,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:06.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245449,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:06.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245453,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:06.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245457,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:07.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245461,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:07.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245465,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:07.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245469,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:07.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245473,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:07.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245477,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:07.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245481,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:08.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245485,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:08.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245489,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:08.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245493,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:08.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245497,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:08.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245501,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:08.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245505,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:08.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245509,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:08.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245513,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:09.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245517,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:09.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245521,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:09.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245525,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:09.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245529,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:09.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245533,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:09.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245537,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:09.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245541,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:09.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245545,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:09.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245549,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:10.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245553,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:10.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245557,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:10.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245561,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:10.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245565,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:10.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245569,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:10.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245573,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:10.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245577,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:10.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245581,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:11.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245585,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:11.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245589,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:11.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245593,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:11.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245597,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:11.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245601,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:11.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245605,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:11.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245609,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:12.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245613,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:12.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245617,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:12.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245621,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:12.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245625,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:12.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245629,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:12.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245633,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:12.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245637,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:13.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245641,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:13.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245645,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:13.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245649,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:13.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245653,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:13.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245657,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:13.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 245663,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:41:26.000+00:00",
+            "event": 234,
+            "attention": 0.630295
+        },
+        {
+            "sessionEventId": 245709,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:36.000+00:00",
+            "event": 234,
+            "attention": 0.812458
+        },
+        {
+            "sessionEventId": 245713,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:41:36.000+00:00",
+            "event": 234,
+            "attention": 0.44768
+        },
+        {
+            "sessionEventId": 245767,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:46.000+00:00",
+            "event": 234,
+            "attention": 0.575348
+        },
+        {
+            "sessionEventId": 245771,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:41:46.000+00:00",
+            "event": 234,
+            "attention": 0.528064
+        },
+        {
+            "sessionEventId": 245841,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:41:56.000+00:00",
+            "event": 234,
+            "attention": 0.56082
+        },
+        {
+            "sessionEventId": 245845,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:41:56.000+00:00",
+            "event": 234,
+            "attention": 0.637316
+        },
+        {
+            "sessionEventId": 245936,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:42:06.000+00:00",
+            "event": 234,
+            "attention": 0.830529
+        },
+        {
+            "sessionEventId": 245940,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:42:06.000+00:00",
+            "event": 234,
+            "attention": 0.615025
+        },
+        {
+            "sessionEventId": 246029,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:42:16.000+00:00",
+            "event": 234,
+            "attention": 0.702308
+        },
+        {
+            "sessionEventId": 246033,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:42:16.000+00:00",
+            "event": 234,
+            "attention": 0.745504
+        },
+        {
+            "sessionEventId": 246111,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:42:26.000+00:00",
+            "event": 234,
+            "attention": 0.418537
+        },
+        {
+            "sessionEventId": 246115,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:42:26.000+00:00",
+            "event": 234,
+            "attention": 0.85836
+        },
+        {
+            "sessionEventId": 246191,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:42:36.000+00:00",
+            "event": 234,
+            "attention": 0.792895
+        },
+        {
+            "sessionEventId": 246195,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:42:36.000+00:00",
+            "event": 234,
+            "attention": 0.738364
+        },
+        {
+            "sessionEventId": 246248,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:42:46.000+00:00",
+            "event": 234,
+            "attention": 0.669756
+        },
+        {
+            "sessionEventId": 246252,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:42:46.000+00:00",
+            "event": 234,
+            "attention": 0.581213
+        },
+        {
+            "sessionEventId": 246309,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:42:56.000+00:00",
+            "event": 234,
+            "attention": 0.660687
+        },
+        {
+            "sessionEventId": 246313,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:42:56.000+00:00",
+            "event": 234,
+            "attention": 0.698822
+        },
+        {
+            "sessionEventId": 246384,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:43:06.000+00:00",
+            "event": 234,
+            "attention": 0.554973
+        },
+        {
+            "sessionEventId": 246388,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:43:06.000+00:00",
+            "event": 234,
+            "attention": 0.66136
+        },
+        {
+            "sessionEventId": 246450,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:43:16.000+00:00",
+            "event": 234,
+            "attention": 0.578986
+        },
+        {
+            "sessionEventId": 246454,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:43:16.000+00:00",
+            "event": 234,
+            "attention": 0.546394
+        },
+        {
+            "sessionEventId": 246510,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:43:26.000+00:00",
+            "event": 234,
+            "attention": 0.594185
+        },
+        {
+            "sessionEventId": 246514,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:43:26.000+00:00",
+            "event": 234,
+            "attention": 0.537036
+        },
+        {
+            "sessionEventId": 246576,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:43:36.000+00:00",
+            "event": 234,
+            "attention": 0.579532
+        },
+        {
+            "sessionEventId": 246580,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:43:36.000+00:00",
+            "event": 234,
+            "attention": 0.426947
+        },
+        {
+            "sessionEventId": 246639,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:43:46.000+00:00",
+            "event": 234,
+            "attention": 0.68695
+        },
+        {
+            "sessionEventId": 246643,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:43:46.000+00:00",
+            "event": 234,
+            "attention": 0.524594
+        },
+        {
+            "sessionEventId": 246680,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:43:56.000+00:00",
+            "event": 234,
+            "attention": 0.658646
+        },
+        {
+            "sessionEventId": 246684,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:43:56.000+00:00",
+            "event": 234,
+            "attention": 0.497008
+        },
+        {
+            "sessionEventId": 246715,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:44:06.000+00:00",
+            "event": 234,
+            "attention": 0.723924
+        },
+        {
+            "sessionEventId": 246719,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:44:06.000+00:00",
+            "event": 234,
+            "attention": 0.52951
+        },
+        {
+            "sessionEventId": 246753,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:44:17.000+00:00",
+            "event": 234,
+            "attention": 0.661739
+        },
+        {
+            "sessionEventId": 246757,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:44:17.000+00:00",
+            "event": 234,
+            "attention": 0.418159
+        },
+        {
+            "sessionEventId": 246806,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:44:27.000+00:00",
+            "event": 234,
+            "attention": 0.612988
+        },
+        {
+            "sessionEventId": 246850,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:44:37.000+00:00",
+            "event": 234,
+            "attention": 0.559439
+        },
+        {
+            "sessionEventId": 246879,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:44:47.000+00:00",
+            "event": 234,
+            "attention": 0.488423
+        },
+        {
+            "sessionEventId": 246934,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:44:57.000+00:00",
+            "event": 234,
+            "attention": 0.583262
+        },
+        {
+            "sessionEventId": 246981,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:45:07.000+00:00",
+            "event": 234,
+            "attention": 0.527649
+        },
+        {
+            "sessionEventId": 247044,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:45:17.000+00:00",
+            "event": 234,
+            "attention": 0.56132
+        },
+        {
+            "sessionEventId": 247093,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:45:27.000+00:00",
+            "event": 234,
+            "attention": 0.486554
+        },
+        {
+            "sessionEventId": 247145,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:45:37.000+00:00",
+            "event": 234,
+            "attention": 0.727
+        },
+        {
+            "sessionEventId": 247177,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:45:47.000+00:00",
+            "event": 234,
+            "attention": 0.542766
+        },
+        {
+            "sessionEventId": 247229,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:45:57.000+00:00",
+            "event": 234,
+            "attention": 0.498414
+        },
+        {
+            "sessionEventId": 247270,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:46:07.000+00:00",
+            "event": 234,
+            "attention": 0.590837
+        },
+        {
+            "sessionEventId": 247337,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:46:17.000+00:00",
+            "event": 234,
+            "attention": 0.445159
+        },
+        {
+            "sessionEventId": 247385,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:46:27.000+00:00",
+            "event": 234,
+            "attention": 0.519749
+        },
+        {
+            "sessionEventId": 247432,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:46:37.000+00:00",
+            "event": 234,
+            "attention": 0.627361
+        },
+        {
+            "sessionEventId": 247485,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:46:47.000+00:00",
+            "event": 234,
+            "attention": 0.516127
+        },
+        {
+            "sessionEventId": 247550,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:46:58.000+00:00",
+            "event": 234,
+            "attention": 0.533089
+        },
+        {
+            "sessionEventId": 247597,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:47:08.000+00:00",
+            "event": 234,
+            "attention": 0.448159
+        },
+        {
+            "sessionEventId": 247644,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:47:18.000+00:00",
+            "event": 234,
+            "attention": 0.476307
+        },
+        {
+            "sessionEventId": 247682,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:47:28.000+00:00",
+            "event": 234,
+            "attention": 0.464323
+        },
+        {
+            "sessionEventId": 247720,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:47:38.000+00:00",
+            "event": 234,
+            "attention": 0.539057
+        },
+        {
+            "sessionEventId": 247770,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:47:48.000+00:00",
+            "event": 234,
+            "attention": 0.457852
+        },
+        {
+            "sessionEventId": 247843,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:47:58.000+00:00",
+            "event": 234,
+            "attention": 0.713572
+        },
+        {
+            "sessionEventId": 247898,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:48:08.000+00:00",
+            "event": 234,
+            "attention": 0.439011
+        },
+        {
+            "sessionEventId": 247928,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:48:18.000+00:00",
+            "event": 234,
+            "attention": 0.751676
+        },
+        {
+            "sessionEventId": 247932,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:48:18.000+00:00",
+            "event": 234,
+            "attention": 0.0
+        },
+        {
+            "sessionEventId": 247971,
+            "participantId": 244954,
+            "timestamp": "2020-12-01T17:48:28.000+00:00",
+            "event": 234,
+            "attention": 0.680637
+        },
+        {
+            "sessionEventId": 247975,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:48:28.000+00:00",
+            "event": 234,
+            "attention": 0.564294
+        },
+        {
+            "sessionEventId": 248032,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:48:38.000+00:00",
+            "event": 234,
+            "attention": 0.595171
+        },
+        {
+            "sessionEventId": 248084,
+            "participantId": 244956,
+            "timestamp": "2020-12-01T17:48:48.000+00:00",
+            "event": 234,
+            "attention": 0.690309
+        }
+    ]
+}
